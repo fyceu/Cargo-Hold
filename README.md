@@ -1,4 +1,9 @@
 # Cargo Hold
+
+<p align="center">
+  <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/ff651f44-4fa3-473e-bfeb-9ead7f90c311" />
+</p>
+
 This is part two of a four part threat hunt. 
 
 Part 1: [Port of Entry]() <br> 
