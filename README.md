@@ -4,12 +4,6 @@
   <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/ff651f44-4fa3-473e-bfeb-9ead7f90c311" />
 </p>
 
-This is part two of a four part threat hunt. 
-
-Part 1: [Port of Entry]() <br> 
-Part 2: Cargo Hold <br>
-Part 3: Bridge Takeover (wip) <br>
-Part 4: Dead in the Water (wip) <br>
 ## Incident Brief
 **INCIDENT BRIEF - Azuki Import/Export - 梓貿易株式会社**
 
@@ -56,8 +50,14 @@ yeah we got breached....
 
 
 ## Credit
-Thank you Mohammed A for drafting this four part series.
+This is part two of a four part threat hunt. 
 
+Part 1: [Port of Entry]() <br> 
+Part 2: Cargo Hold <br>
+Part 3: Bridge Takeover (wip) <br>
+Part 4: Dead in the Water (wip) <br>
+
+Thank you Mohammed A for creating this four part series.
 Support the creator:
 - [LinkedIn](https://www.linkedin.com/in/MohammedSancLogic/)
 - [YouTube](https://www.youtube.com/@SancLogic)
