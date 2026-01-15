@@ -57,8 +57,8 @@ Part 2: Cargo Hold <br>
 Part 3: Bridge Takeover (wip) <br>
 Part 4: Dead in the Water (wip) <br>
 
-Thank you Mohammed A for creating this four part series.
-Support the creator:
+Thank you Mohammed A for creating this series. <br>
+Support the creator below:
 - [LinkedIn](https://www.linkedin.com/in/MohammedSancLogic/)
 - [YouTube](https://www.youtube.com/@SancLogic)
 - [Portfolio](https://sanclogic.com/)
