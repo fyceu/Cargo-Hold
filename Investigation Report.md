@@ -3,15 +3,19 @@
 2. Threat Hunt Investigation
 3. Root Cause Analysis
 4. Technical Timeline
-5. Response and Recovery Analysis
-	1. Immediate Response Actions
+5. Response and Recovery Strategy
+	1. Immediate Response
 	2. Containment
 	3. Eradication 
 	4. Recovery
-6. Post Incident 
+6. Post Incident Review
 7. Business Impact
-8. Appendix A. Indicators of Compromise (IOCs)
-9. Appendix B. MITRE ATT&CK Mapping
+	1. Share holders
+	3. Business Partners
+	4. Employees
+	5. Customers
+9. Appendix A. Indicators of Compromise (IOCs)
+10. Appendix B. MITRE ATT&CK Mapping
 
 ## Summary of Findings (SPOILERS)
 
