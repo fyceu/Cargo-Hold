@@ -13,7 +13,7 @@
 **EVIDENCE AVAILABLE:** Microsoft Defender for Endpoint logs <br>
 <br>
 
-The full investigation report can be read [here]()
+The full investigation report can be read [here](https://github.com/fyceu/Cargo-Hold/blob/main/Investigation%20Report.md)
 
 ## Tech Stack
 <img width="50" height="50" alt="azure" src="https://github.com/user-attachments/assets/fd2866b6-d2fa-4e61-bf55-0b20d63fca5e" />
@@ -38,7 +38,7 @@ Analyst Assigned: `Fasi Sika`
 ### Key Findings
 Compromised employee credentials were reused to regain access to the internal network following a 72-hour dwell period. The threat actor was able to move laterally within the environment by accessing an internal file server using an administrator account. While on the file server, the attacker conducted discovery activities to better understand the environment and leveraged native system tools to carry out their attack. Sensitive business documents, email archives, employee personal information, and credentials were copied to a hidden staging directory and exfiltrated to an external cloud service. Logs also indicate that the attacker established persistence by modifying registry run keys and attempted to evade detection by deleting command history
 
-The full investigation report can be read [here]()
+The full investigation report can be read [here](https://github.com/fyceu/Cargo-Hold/blob/main/Investigation%20Report.md)
 
 <img width="1536" height="1024" alt="9ca6eef1-d450-4c60-a89e-a638ba7eb18f" src="https://github.com/user-attachments/assets/d1b3c857-3455-46b7-b491-c9da0a851a53" />
 
@@ -51,12 +51,12 @@ The full investigation report can be read [here]()
 ## Business Impact
 With confirmation that sensitive internal data was exfiltrated, this incident posed significant risk to the organization. Stolen data included internal backups, financial information, business partner documentation, employee credentials, and email archives. While no operational outage occurred, the exposure of this data introduced elevated risk related to trust, compliance, and potential follow-on attack
 
-A more detailed analysis of the business impact can be read [here]()
+A more detailed analysis of the business impact can be read [here](https://github.com/fyceu/Cargo-Hold/blob/main/Investigation%20Report.md#business-impact)
 
 ## Credit
-This is part two of a four part threat hunt. 
+This is part two of a four part series. 
 
-Part 1: [Port of Entry]() <br> 
+Part 1: [Port of Entry](https://github.com/fyceu/Port-of-Entry) <br> 
 Part 2: Cargo Hold <br>
 Part 3: Bridge Takeover (wip) <br>
 Part 4: Dead in the Water (wip) <br>
