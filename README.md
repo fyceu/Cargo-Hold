@@ -1,5 +1,4 @@
 # Cargo Hold
-
 <p align="center">
   <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/ff651f44-4fa3-473e-bfeb-9ead7f90c311" />
 </p>
@@ -43,13 +42,13 @@ The full investigation report can be read [here]()
 
 <img width="1536" height="1024" alt="9ca6eef1-d450-4c60-a89e-a638ba7eb18f" src="https://github.com/user-attachments/assets/d1b3c857-3455-46b7-b491-c9da0a851a53" />
 
-### Immediate Actions
+## Immediate Actions
 - Identified and isolated affected systems
 - Reset credentials on compromised accounts and force 
 - Blocked IP addresses utilized by threat actor
 - Preserved forensic evidence and endpoint telemetry for further analysis
 
-### Business Impact
+## Business Impact
 With confirmation that sensitive internal data was exfiltrated, this incident posed significant risk to the organization. Stolen data included internal backups, financial information, business partner documentation, employee credentials, and email archives. While no operational outage occurred, the exposure of this data introduced elevated risk related to trust, compliance, and potential follow-on attack
 
 A more detailed analysis of the business impact can be read [here]()
