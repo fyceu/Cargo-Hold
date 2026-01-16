@@ -12,6 +12,7 @@
 **COMPROMISED SYSTEMS:** [REDACTED - Investigation Required]
 
 **EVIDENCE AVAILABLE:** Microsoft Defender for Endpoint logs <br>
+<br>
 
 The full investigation report can be read [here]()
 
