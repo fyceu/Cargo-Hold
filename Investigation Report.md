@@ -1,26 +1,26 @@
 ## Table of Contents
-1. Summary of Findings (SPOILERS)
-2. Threat Hunt Investigation
-3. Root Cause Analysis
-4. Technical Timeline
-5. Response and Recovery Strategy
+1. [Summary of Findings (SPOILERS)](https://github.com/fyceu/Cargo-Hold/blob/main/Investigation%20Report.md#summary-of-findings-spoilers)
+2. [Threat Hunt Investigation](https://github.com/fyceu/Cargo-Hold/blob/main/Investigation%20Report.md#threat-hunt-investigation)
+3. [Root Cause Analysis](https://github.com/fyceu/Cargo-Hold/blob/main/Investigation%20Report.md#root-cause-analysis)
+4. [Threat Actor Timeline](https://github.com/fyceu/Cargo-Hold/blob/main/Investigation%20Report.md#threat-actor-timeline)
+5. [Response and Recovery Strategy](https://github.com/fyceu/Cargo-Hold/blob/main/Investigation%20Report.md#response-and-recovery-strategy)
 	1. Immediate Response
 	2. Containment
 	3. Eradication 
 	4. Recovery
-6. Post Incident Review
-7. Business Impact
+6. [Post Incident Review](https://github.com/fyceu/Cargo-Hold/blob/main/Investigation%20Report.md#post-incident)
+7. [Business Impact](https://github.com/fyceu/Cargo-Hold/blob/main/Investigation%20Report.md#business-impact)
 	1. Share holders
 	3. Business Partners
 	4. Employees
 	5. Customers
-9. Appendix A. Indicators of Compromise (IOCs)
-10. Appendix B. MITRE ATT&CK Mapping
+9. [Appendix A. Indicators of Compromise (IOCs)](https://github.com/fyceu/Cargo-Hold/blob/main/Investigation%20Report.md#appendix-a-indicators-of-compromise)
+10. [Appendix B. MITRE ATT&CK Mapping](https://github.com/fyceu/Cargo-Hold/blob/main/Investigation%20Report.md#appendix-b-mitre-attck--mapping)
 
 ## Summary of Findings (SPOILERS)
 
 Below is a dropdown with findings (flags) to this threat hunt. <br>
-If you do not want to be spoiled, skip to the next section: [**Threat Hunt Investigation**]()
+If you do not want to be spoiled, skip to the next section: [**Threat Hunt Investigation**](https://github.com/fyceu/Cargo-Hold/blob/main/Investigation%20Report.md#threat-hunt-investigation)
 
 <details>
   <summary>SPOILERS: Show Findings</summary>
